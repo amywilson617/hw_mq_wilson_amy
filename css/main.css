@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+@media (min-width: 675px) {
+    body {
+        background-color: purple;
+    }
+}
+
+@media (min-width: 999px) {
+    body {
+        background-color: grey;
+    }
+}
+
+@media (min-width: 1280px) {
+    body {
+        background-color: navy;
+    }
+}
