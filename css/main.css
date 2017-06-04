@@ -19,3 +19,21 @@ body {
         background-color: navy;
     }
 }
+
+@media (max-width: 1080px) {
+    body {
+        background-color: green;
+    }
+}
+
+@media (max-width: 550px) {
+    body {
+        background-color: lime;
+    }
+}
+
+@media (max-width: 400px) {
+    body {
+        background-color: red;
+    }
+}
